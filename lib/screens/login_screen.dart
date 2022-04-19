@@ -30,7 +30,7 @@ class _LoginScreenState extends State<LoginScreen> {
             child: Image.asset('assets/images/onboarding.jpg'),
           ),
           CustomButton(
-            text: 'Google Signin',
+            text: 'Google Sign in',
             onPressed: () async {
               bool res = await _authMethods.signInWithGoogle(context);
               if (res) {
