@@ -2,7 +2,7 @@
 
 ## About The Project
 
-Connect is Zoom inspired cross-platform real-time media sharing mobile application. This project has been made to provide a seamless user experience and easy video calling experience into the platform. User can easily video call, can create room, can share screen and can use the chat option. This app can easily work on any iOS and android devices.
+Connect is a Zoom inspired cross-platform real-time media sharing mobile application. This project has been made to provide a seamless user experience and easy video calling experience into the platform. User can easily video call, can create room, can share screen and can use the chat option. This app can easily work on any iOS and android devices.
 
 ## Features
 
