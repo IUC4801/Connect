@@ -61,4 +61,10 @@ Flutter should be installed in the device. Along with flutter, any code editor a
 - jitsi_meet
 
 ## Demo
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/61285140/165807696-c44c4498-4af1-40c5-b57f-1de2b711364f.gif"
+  >
+</p>
+
 
