@@ -54,8 +54,11 @@ Flutter should be installed in the device. Along with flutter, any code editor a
 
 
 ## Dependencies
+- firebase_auth
+- firebase_core
+- cloud_firestore
+- google_sign_in
+- jitsi_meet
 
 ## Demo
-
-
 
